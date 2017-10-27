@@ -3,5 +3,3 @@ const ReactDOM = require('react-dom');
 
 
 ReactDOM.render(<h1>Hello World</h1>, document.getElementById('root'));
-
-// document.getElementById('root').appendChild(document.createTextNode("Hello World"));
